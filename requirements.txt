@@ -1,0 +1,60 @@
+# AI Agent Universe - 核心依赖
+# 由 Trae IDE 整合制作
+
+# LLM 框架集成
+litellm>=1.30.0              # 统一 LLM API 接口
+langchain>=0.1.0             # LangChain 框架
+langgraph>=0.0.20            # LangGraph 图编排
+openai>=1.10.0               # OpenAI SDK
+anthropic>=0.18.0            # Anthropic SDK
+
+# Agent 框架
+crewai>=0.30.0               # CrewAI 多 Agent 框架
+pyautogen>=0.2.0             # Microsoft AutoGen
+phidata>=2.0.0               # Phidata Agent 框架
+
+# 代码执行
+open-interpreter>=0.2.0      # Open Interpreter
+ipython>=8.0.0               # Python 交互式执行
+jupyter-client>=8.0.0        # Jupyter 客户端
+
+# UI 自动化
+pyautogui>=0.9.54            # GUI 自动化
+pillow>=10.0.0               # 图像处理
+opencv-python>=4.8.0         # 计算机视觉
+
+# 浏览器自动化
+selenium>=4.15.0             # 浏览器自动化
+playwright>=1.40.0           # 现代浏览器自动化
+
+# 工作流与编排
+pyyaml>=6.0.0                # YAML 配置
+pydantic>=2.5.0              # 数据验证
+fastapi>=0.105.0             # API 框架
+uvicorn>=0.24.0              # ASGI 服务器
+
+# 数据处理
+pandas>=2.0.0                # 数据分析
+numpy>=1.24.0                # 数值计算
+requests>=2.31.0             # HTTP 请求
+
+# 知识库与 RAG
+llama-index>=0.9.0           # LlamaIndex
+chromadb>=0.4.0              # 向量数据库
+
+# 工具集成
+composio-core>=0.1.0         # Composio 工具集成
+python-dotenv>=1.0.0         # 环境变量管理
+
+# 日志与监控
+loguru>=0.7.0                # 日志库
+rich>=13.0.0                 # 终端美化
+
+# 测试
+pytest>=7.4.0                # 测试框架
+pytest-asyncio>=0.21.0       # 异步测试
+
+# 开发工具
+black>=23.0.0                # 代码格式化
+flake8>=6.0.0                # 代码检查
+mypy>=1.7.0                  # 类型检查
