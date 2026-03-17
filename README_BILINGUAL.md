@@ -2,15 +2,15 @@
 
 <div align="center">
 
-**由 Trae IDE 整合制作 | Integrated by Trae IDE**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作 | Integrated by Trae IDE (Qwen3.5-Plus)**
 
 一个功能强大的本地 AI Agent 自动化平台，整合了业界领先的 AI 框架和工具
 
 A powerful local AI Agent automation platform integrating industry-leading AI frameworks and tools
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub stars](https://img.shields.io/github/stars/L-yi-mo/AI-Agent-Universe)](https://github.com/L-yi-mo/AI-Agent-Universe/stargazers)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
 </div>
 
@@ -22,7 +22,18 @@ A powerful local AI Agent automation platform integrating industry-leading AI fr
 
 **AI Agent Universe** 是一个全新的综合性 AI Agent 平台，旨在让 AI 能够在本地主机上运行和使用所有程序。本项目整合了 20+ 个顶级开源项目，提供统一的 API 和配置接口。
 
-**核心能力**：
+### 📝 免责声明 | Disclaimer
+
+⚠️ **重要声明**：本项目由 AI (Trae IDE - Qwen3.5-Plus) 整合制作，整合了多个开源项目。
+
+- **整合性质**：本项目是对现有开源项目的整合和封装，而非从零开发
+- **开源合规**：所有整合的开源项目均遵循其原有的许可证
+- **使用风险**：使用本软件的风险由用户自行承担
+- **责任限制**：作者和整合者不对使用本软件造成的任何损失负责
+
+详细免责声明请查看 [DISCLAIMER.md](DISCLAIMER.md)
+
+### 核心能力 | Core Capabilities
 - 🤖 多 Agent 协作系统
 - 🔧 本地代码执行（Python/JavaScript/Shell）
 - 🖥️ 智能 UI 交互与自动化
@@ -34,7 +45,18 @@ A powerful local AI Agent automation platform integrating industry-leading AI fr
 
 **AI Agent Universe** is a comprehensive AI Agent platform designed to enable AI to run and use all programs on the local host. This project integrates 20+ top open-source projects, providing unified API and configuration interfaces.
 
-**Core Capabilities**:
+### 📝 免责声明 | Disclaimer
+
+⚠️ **Important Notice**：This project was integrated and created by AI (Trae IDE - Qwen3.5-Plus), integrating multiple open-source projects.
+
+- **Integration Nature**：This project is an integration and encapsulation of existing open-source projects, not developed from scratch
+- **Open Source Compliance**：All integrated open-source projects follow their original licenses
+- **Usage Risk**：The risk of using this software is borne by the user
+- **Limitation of Liability**：The author and integrator are not responsible for any losses caused by using this software
+
+For detailed disclaimer, please see [DISCLAIMER.md](DISCLAIMER.md)
+
+### Core Capabilities
 - 🤖 Multi-Agent Collaboration System
 - 🔧 Local Code Execution (Python/JavaScript/Shell)
 - 🖥️ Intelligent UI Interaction & Automation
@@ -467,38 +489,54 @@ We welcome community contributions! Please follow these steps:
 ## 📄 许可证 | License
 
 #### 🇨🇳
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目采用专有许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+
+- **版权所有者**: L-yi-mo
+- **整合制作**: Trae IDE (Qwen3.5-Plus)
+- **保留所有权利**
+- 仅允许个人和教育用途
+- 商业用途需要明确授权
 
 #### 🇺🇸
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under a Proprietary License - see the [LICENSE](LICENSE) file for details
+
+- **Copyright Owner**: L-yi-mo
+- **Integrated by**: Trae IDE (Qwen3.5-Plus)
+- **All Rights Reserved**
+- For personal and educational use only
+- Commercial use requires explicit authorization
 
 ---
 
 ## 🙏 致谢 | Acknowledgments
 
-#### 🇨🇳
+#### 🇨
 
 本项目整合了以下优秀的开源项目，向所有贡献者致敬：
 
-- Open Interpreter
-- Microsoft AutoGen
-- MetaGPT
-- LangChain/LangGraph
-- CrewAI
-- AutoGPT
+- Open Interpreter - https://github.com/openinterpreter/open-interpreter
+- Microsoft AutoGen - https://github.com/microsoft/autogen
+- MetaGPT - https://github.com/geekan/MetaGPT
+- LangChain/LangGraph - https://github.com/langchain-ai/langgraph
+- CrewAI - https://github.com/crewAIInc/crewAI
+- AutoGPT - https://github.com/Significant-Gravitas/AutoGPT
 - 以及所有列出的开源项目
+
+**声明**: 本项目整合的开源项目均遵循其原有的许可证。AI Agent Universe 本身采用专有许可证。
 
 #### 🇺🇸
 
 This project integrates the following excellent open-source projects. Salutes to all contributors:
 
-- Open Interpreter
-- Microsoft AutoGen
-- MetaGPT
-- LangChain/LangGraph
-- CrewAI
-- AutoGPT
+- Open Interpreter - https://github.com/openinterpreter/open-interpreter
+- Microsoft AutoGen - https://github.com/microsoft/autogen
+- MetaGPT - https://github.com/geekan/MetaGPT
+- LangChain/LangGraph - https://github.com/langchain-ai/langgraph
+- CrewAI - https://github.com/crewAIInc/crewAI
+- AutoGPT - https://github.com/Significant-Gravitas/AutoGPT
 - And all listed open-source projects
+
+**Disclaimer**: The open-source projects integrated in this project all follow their original licenses. AI Agent Universe itself uses a proprietary license.
 
 ---
 
@@ -508,6 +546,7 @@ This project integrates the following excellent open-source projects. Salutes to
 - **问题反馈 | Issues**: https://github.com/L-yi-mo/AI-Agent-Universe/issues
 - **作者 | Author**: L-yi-mo
 - **整合制作 | Integrated by**: Trae IDE (Qwen3.5-Plus)
+- **版权声明 | Copyright**: Copyright (c) 2026 L-yi-mo. All Rights Reserved.
 
 ---
 
@@ -524,9 +563,11 @@ This project integrates the following excellent open-source projects. Salutes to
 
 <div align="center">
 
-**由 Trae IDE 整合制作 | Integrated by Trae IDE**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作 | Integrated by Trae IDE (Qwen3.5-Plus)**
 
 Made with ❤️ by L-yi-mo using Trae IDE (Qwen3.5-Plus)
+
+**Copyright (c) 2026 L-yi-mo. All Rights Reserved.**
 
 **🌟 让 AI 能够在本地主机运行所有程序 | Let AI Run All Programs on Your Local Host**
 

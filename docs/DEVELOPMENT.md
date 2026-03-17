@@ -1,11 +1,20 @@
 # 开发指南
 
+## 版权信息
+
+**Copyright (c) 2026 L-yi-mo. All Rights Reserved.**
+
+**整合制作**: Trae IDE (Qwen3.5-Plus)
+
+本项目采用专有许可证，详见 [LICENSE](../LICENSE) 文件。
+
 ## 开发环境设置
 
 ```bash
 # 克隆仓库
-git clone https://github.com/niuzaisheng/AI-Agent-Universe.git
+git clone https://github.com/L-yi-mo/AI-Agent-Universe.git
 cd AI-Agent-Universe
+```
 
 # 创建虚拟环境
 python -m venv venv
@@ -310,4 +319,6 @@ A: 设置 `verbose=True` 并检查日志文件
 
 ---
 
-**由 Trae IDE 整合制作**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作**
+
+**Copyright (c) 2026 L-yi-mo. All Rights Reserved.**

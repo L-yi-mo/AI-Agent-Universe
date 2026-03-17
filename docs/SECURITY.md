@@ -276,4 +276,4 @@ git pull origin main
 
 **安全使用，责任自负**
 
-**由 Trae IDE 整合制作**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作**

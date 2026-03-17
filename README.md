@@ -2,19 +2,30 @@
 
 <div align="center">
 
-**由 Trae IDE 整合制作**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作**
 
 一个功能强大的本地 AI Agent 自动化平台，整合了业界领先的 AI 框架和工具
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub stars](https://img.shields.io/github/stars/L-yi-mo/AI-Agent-Universe)](https://github.com/L-yi-mo/AI-Agent-Universe/stargazers)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
 </div>
 
 ## 📖 项目简介
 
 **AI Agent Universe** 是一个全新的综合性 AI Agent 平台，旨在让 AI 能够在本地主机上运行和使用所有程序。本项目整合了以下顶级开源项目：
+
+### 📝 免责声明
+
+⚠️ **重要声明**：本项目由 AI (Trae IDE - Qwen3.5-Plus) 整合制作，整合了多个开源项目。
+
+- **整合性质**：本项目是对现有开源项目的整合和封装，而非从零开发
+- **开源合规**：所有整合的开源项目均遵循其原有的许可证
+- **使用风险**：使用本软件的风险由用户自行承担
+- **责任限制**：作者和整合者不对使用本软件造成的任何损失负责
+
+详细免责声明请查看 [DISCLAIMER.md](DISCLAIMER.md)
 
 ### 核心整合框架
 
@@ -367,6 +378,8 @@ crew = Crew(
    - 定期备份重要数据
 3. **监控与审计**：启用完整的日志记录，定期审查 Agent 行为
 
+📋 **法律声明**：使用本软件即表示您同意 [免责声明](DISCLAIMER.md) 中的所有条款
+
 ## 🤝 贡献指南
 
 我们欢迎社区贡献！请参考以下步骤：
@@ -379,19 +392,27 @@ crew = Crew(
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目采用专有许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+
+- **版权所有者**: L-yi-mo
+- **整合制作**: Trae IDE (Qwen3.5-Plus)
+- **保留所有权利**
+- 仅允许个人和教育用途
+- 商业用途需要明确授权
 
 ## 🙏 致谢
 
 本项目整合了以下优秀的开源项目，向所有贡献者致敬：
 
-- Open Interpreter
-- Microsoft AutoGen
-- MetaGPT
-- LangChain/LangGraph
-- CrewAI
-- AutoGPT
+- Open Interpreter - https://github.com/openinterpreter/open-interpreter
+- Microsoft AutoGen - https://github.com/microsoft/autogen
+- MetaGPT - https://github.com/geekan/MetaGPT
+- LangChain/LangGraph - https://github.com/langchain-ai/langgraph
+- CrewAI - https://github.com/crewAIInc/crewAI
+- AutoGPT - https://github.com/Significant-Gravitas/AutoGPT
 - 以及所有列出的开源项目
+
+**声明**: 本项目整合的开源项目均遵循其原有的许可证。AI Agent Universe 本身采用专有许可证。
 
 ## 📬 联系方式
 
@@ -399,6 +420,17 @@ crew = Crew(
 - **问题反馈**: https://github.com/L-yi-mo/AI-Agent-Universe/issues
 - **作者**: L-yi-mo
 - **整合制作**: Trae IDE (Qwen3.5-Plus)
+- **版权声明**: Copyright (c) 2026 L-yi-mo. All Rights Reserved.
+
+## 🔗 相关链接
+
+- [快速开始](QUICKSTART.md)
+- [项目结构](docs/PROJECT_STRUCTURE.md)
+- [整合项目](docs/INTEGRATIONS.md)
+- [开发指南](docs/DEVELOPMENT.md)
+- [安全指南](docs/SECURITY.md)
+- [**免责声明**](DISCLAIMER.md) ⭐
+- [**合规性报告**](COMPLIANCE_REPORT.md) ⭐
 
 ## 🌟 Star History
 
@@ -408,8 +440,10 @@ crew = Crew(
 
 <div align="center">
 
-**由 Trae IDE 整合制作**
+**由 Trae IDE (Qwen3.5-Plus) 整合制作**
 
 Made with ❤️ by L-yi-mo using Trae IDE (Qwen3.5-Plus)
+
+**Copyright (c) 2026 L-yi-mo. All Rights Reserved.**
 
 </div>
