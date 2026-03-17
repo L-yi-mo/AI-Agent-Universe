@@ -62,7 +62,7 @@ echo 1. 编辑 config.yaml 文件，配置您的 API 密钥
 echo 2. 运行示例代码：python examples\example_1_basic_agent.py
 echo 3. 查看文档了解更多信息
 echo.
-echo 如有问题，请访问：https://github.com/niuzaisheng/AI-Agent-Universe/issues
+echo 如有问题，请访问：https://github.com/L-yi-mo/AI-Agent-Universe/issues
 echo ============================================================
 echo.
 pause

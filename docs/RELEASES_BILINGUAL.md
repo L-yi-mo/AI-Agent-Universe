@@ -308,7 +308,7 @@ pip install -r requirements.txt
 **报告问题**：
 
 - 提交 Issue: https://github.com/L-yi-mo/AI-Agent-Universe/issues
-- 讨论区: https://github.com/L-yi-mo/AI-Agent-Universe/discussions
+- 讨论区：https://github.com/L-yi-mo/AI-Agent-Universe/discussions
 
 ### 🇺🇸
 
@@ -351,7 +351,7 @@ pip install -r requirements.txt
 
 **由 Trae IDE 整合制作 | Integrated by Trae IDE**
 
-Made with ❤️ by L-yi-mo
+Made with ❤️ by L-yi-mo using Trae IDE (Qwen3.5-Plus)
 
 [返回主页 | Back to Home](README_BILINGUAL.md) | [查看项目结构 | Project Structure](docs/PROJECT_STRUCTURE.md)
 

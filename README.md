@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![GitHub stars](https://img.shields.io/github/stars/niuzaisheng/AI-Agent-Universe)](https://github.com/niuzaisheng/AI-Agent-Universe/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/L-yi-mo/AI-Agent-Universe)](https://github.com/L-yi-mo/AI-Agent-Universe/stargazers)
 
 </div>
 
@@ -125,7 +125,7 @@ AI Agent Universe
 
 ```bash
 # 克隆仓库
-git clone https://github.com/niuzaisheng/AI-Agent-Universe.git
+git clone https://github.com/L-yi-mo/AI-Agent-Universe.git
 cd AI-Agent-Universe
 
 # 创建虚拟环境
@@ -395,9 +395,10 @@ crew = Crew(
 
 ## 📬 联系方式
 
-- **项目地址**: https://github.com/niuzaisheng/AI-Agent-Universe
-- **问题反馈**: https://github.com/niuzaisheng/AI-Agent-Universe/issues
-- **作者**: niuzaisheng
+- **项目地址**: https://github.com/L-yi-mo/AI-Agent-Universe
+- **问题反馈**: https://github.com/L-yi-mo/AI-Agent-Universe/issues
+- **作者**: L-yi-mo
+- **整合制作**: Trae IDE (Qwen3.5-Plus)
 
 ## 🌟 Star History
 
@@ -407,8 +408,8 @@ crew = Crew(
 
 <div align="center">
 
-**由 Trae IDE 整合制作** 
+**由 Trae IDE 整合制作**
 
-Made with ❤️ by niuzaisheng
+Made with ❤️ by L-yi-mo using Trae IDE (Qwen3.5-Plus)
 
 </div>

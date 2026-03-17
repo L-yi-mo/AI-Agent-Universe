@@ -305,8 +305,8 @@ A: 设置 `verbose=True` 并检查日志文件
 
 欢迎贡献代码、文档、测试等！请查看：
 
-- 问题追踪器：https://github.com/niuzaisheng/AI-Agent-Universe/issues
-- 讨论区：https://github.com/niuzaisheng/AI-Agent-Universe/discussions
+- 问题追踪器：https://github.com/L-yi-mo/AI-Agent-Universe/issues
+- 讨论区：https://github.com/L-yi-mo/AI-Agent-Universe/discussions
 
 ---
 

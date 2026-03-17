@@ -507,7 +507,7 @@ This project integrates the following excellent open-source projects. Salutes to
 - **项目地址 | Project URL**: https://github.com/L-yi-mo/AI-Agent-Universe
 - **问题反馈 | Issues**: https://github.com/L-yi-mo/AI-Agent-Universe/issues
 - **作者 | Author**: L-yi-mo
-- **整合制作 | Integrated by**: Trae IDE
+- **整合制作 | Integrated by**: Trae IDE (Qwen3.5-Plus)
 
 ---
 
@@ -526,7 +526,7 @@ This project integrates the following excellent open-source projects. Salutes to
 
 **由 Trae IDE 整合制作 | Integrated by Trae IDE**
 
-Made with ❤️ by L-yi-mo using Trae IDE
+Made with ❤️ by L-yi-mo using Trae IDE (Qwen3.5-Plus)
 
 **🌟 让 AI 能够在本地主机运行所有程序 | Let AI Run All Programs on Your Local Host**
 

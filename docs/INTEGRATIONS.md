@@ -168,4 +168,4 @@ AI Agent Universe 通过以下方式整合这些项目：
 
 **由 Trae IDE 整合制作**
 
-项目地址：https://github.com/niuzaisheng/AI-Agent-Universe
+项目地址：https://github.com/L-yi-mo/AI-Agent-Universe

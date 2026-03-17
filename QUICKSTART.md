@@ -30,7 +30,7 @@ source venv/bin/activate
 
 ```bash
 # 克隆仓库
-git clone https://github.com/niuzaisheng/AI-Agent-Universe.git
+git clone https://github.com/L-yi-mo/AI-Agent-Universe.git
 cd AI-Agent-Universe
 
 # 创建虚拟环境
@@ -115,6 +115,6 @@ python examples/example_5_web_automation.py
 
 ## 获取帮助
 
-- 查看文档：https://github.com/niuzaisheng/AI-Agent-Universe
-- 提交问题：https://github.com/niuzaisheng/AI-Agent-Universe/issues
-- 讨论区：https://github.com/niuzaisheng/AI-Agent-Universe/discussions
+- 查看文档：https://github.com/L-yi-mo/AI-Agent-Universe
+- 提交问题：https://github.com/L-yi-mo/AI-Agent-Universe/issues
+- 讨论区：https://github.com/L-yi-mo/AI-Agent-Universe/discussions
