@@ -3,11 +3,12 @@
 AI Agent Universe 安装脚本
 由 Trae IDE 整合制作
 """
+__version__ = "0.1.1"
+# Optimized by GitHub Copilot (GPT-5 mini)
 
 import subprocess
 import sys
 from pathlib import Path
-
 
 def check_python_version():
     """检查 Python 版本"""
@@ -16,7 +17,6 @@ def check_python_version():
         print(f"当前版本：{sys.version_info.major}.{sys.version_info.minor}")
         sys.exit(1)
     print(f"✓ Python 版本检查通过：{sys.version_info.major}.{sys.version_info.minor}")
-
 
 def create_venv():
     """创建虚拟环境"""
@@ -27,7 +27,6 @@ def create_venv():
         print("✓ 虚拟环境创建成功")
     else:
         print("✓ 虚拟环境已存在")
-
 
 def install_dependencies():
     """安装依赖"""
@@ -59,7 +58,6 @@ def install_dependencies():
             [sys.executable, "-m", "pip", "install", "-r", "requirements.txt"],
             check=True
         )
-
 
 def setup_config():
     """设置配置文件"""
